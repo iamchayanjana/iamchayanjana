@@ -1,4 +1,4 @@
-![image]()
+![image](https://media.licdn.com/dms/image/D4D16AQE3iCpn_fKiSw/profile-displaybackgroundimage-shrink_350_1400/0/1686586477029?e=1724889600&v=beta&t=WLLRBGsKFWAKwmKmXNR5OWTXGFymSo7bb77c2V_1BEQ)
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
