@@ -23,7 +23,7 @@
 
 <div align="left">
   <a href="https://twitter.com/iamchayanjana" target="blank">
-    <img src="https://img.shields.io/twitter/follow/koushik1729?logo=twitter&style=for-the-badge" alt="iamchayanjana" />
+    <img src="https://img.shields.io/twitter/follow/iamchayanjana?logo=twitter&style=for-the-badge" alt="iamchayanjana" />
   </a>
 </div>
 
